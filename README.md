@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shenal de Silva</h1>
+<h1 align="center">Hi 👋, I'm Thanuka Warushavithana</h1>
 <h3 align="center">I'm an undergraduate</h3>
 
 <p align="center"> <img src = "https://github-profile-trophy.vercel.app/?username=thanukaMinik&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 > </p>
