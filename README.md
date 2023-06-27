@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shenal de Silva</h1>
 <h3 align="center">I'm an undergraduate</h3>
 
-<p align="center"> <img src = "https://github-profile-trophy.vercel.app/?username=shena17&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 > </p>
+<p align="center"> <img src = "https://github-profile-trophy.vercel.app/?username=thanukaMinik&theme=nord&margin-w=15&margin-h=15&&no-frame=true&row=1" width = 800 > </p>
 
-- 🔭 I’m currently working on **an Ecommerce website**
+- 🌱 I’m currently learning **React**
 
-- 🌱 I’m currently learning **Kotlin**
-
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **QA Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shenal-de-silva4224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shenal-de-silva4224/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shenal-de-silva4224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thanuka-minik/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
